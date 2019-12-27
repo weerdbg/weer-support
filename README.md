@@ -1,7 +1,7 @@
 Weer
 ====
 
-![](https://weerdbg.com/images/README/1.png)
+This repository is [Weer](https://weerdbg.com/) support system.
 
-This repository is only used as a support system.
+![](https://weerdbg-static.netlify.com/images/README/1.png)
 
